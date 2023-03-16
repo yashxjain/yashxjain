@@ -24,8 +24,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashxjain&show_icons=true&locale=en&layout=compact" alt="yashxjain" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashxjain&show_icons=true&locale=en" alt="yashxjain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashxjain&" alt="yashxjain" /></p>
