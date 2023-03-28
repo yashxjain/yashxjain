@@ -94,7 +94,7 @@
 
 
 <p>
-<a href="https://github.com/Sakshi0704"><span>
+<a href="https://github.com/yashxjain"><span>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakshi0704&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sakshi0704&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
@@ -103,7 +103,7 @@
 <hr clear="both"> 
  <br/><br/><br/>
 <p align="center">
-<a href="https://github.com/Sakshi0704"><span>
+<a href="https://github.com/yashxjain"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi0704&theme=dracula" />
 </span></a> </p>
 
