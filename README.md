@@ -74,7 +74,7 @@
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Sakshi0704}/count.svg" alt="Sakshi0704 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{yashxjain}/count.svg" alt="Sakshi0704 :: Visitor's Count" /></p>
 
 <hr>
 
