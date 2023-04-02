@@ -74,7 +74,7 @@
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{yashxjain}/count.svg" alt="Sakshi0704 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{yashxjain}/count.svg" alt="yashxjain :: Visitor's Count" /></p>
 
 <hr>
 
@@ -113,7 +113,7 @@ GitHub Cup's
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=yashxjain&theme=vue" alt=""/> </p>
  <br/>
  
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sakshi0704&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  -->
+
 
 
 <hr clear="both">
