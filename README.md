@@ -52,6 +52,7 @@
  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=react.js&logoColor=white" />&nbsp;&nbsp;
            
 </p>
 <hr>
