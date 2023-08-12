@@ -11,7 +11,7 @@
 
 <!-- - 🧠 Callme: ***He/Him*** or ***TeamWorker*** 😊 <br> -->
 
-- 🛠 I’m currently learning about **JAVA**😃<br>
+- 🛠 I’m currently learning about **JS Frameworks**😃<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
